@@ -1,0 +1,7 @@
+{
+  "name": "liveScore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
